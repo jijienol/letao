@@ -94,4 +94,5 @@ var option2 = {
 
 // 使用刚指定的配置项和数据显示图表。
 myChart2.setOption(option2);
+$('.abv').css
 })

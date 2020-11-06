@@ -67,10 +67,9 @@ $(function () {
         }
         if(info.error == 1001){
           validator.updateStatus('password','INVALID','callback')
-
         }
       }
     })
   });
-
+  
 })
