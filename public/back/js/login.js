@@ -53,6 +53,7 @@ $(function () {
     // alert(1)
     console.log(1);
     e.preventDefault();
+    
     $.ajax({
       url: '/employee/employeeLogin',
       data: $('#form').serialize(),
